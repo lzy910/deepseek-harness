@@ -4,7 +4,7 @@
 
 DeepSeek Harness（`dsh`）是由 [DeepSeek AI](https://deepseek.com/) 开发的开源智能体框架，可让 AI 智能体读写项目文件、运行命令并完成多步任务。
 
-它构建于**一切皆插件**的架构之上，由 [Cordis](https://github.com/cordiverse/cordis) 驱动，其设计参见论文 [_A Programming Paradigm for Spatiotemporal Composability_](https://arxiv.org/abs/2608.25512)。
+它采用**一切皆插件**的架构，由 [Cordis](https://github.com/cordiverse/cordis) 驱动，其设计参见论文 [_A Programming Paradigm for Spatiotemporal Composability_](https://arxiv.org/abs/2608.25512)。
 
 文档：[https://deepseek-harness.github.io/deepseek-harness/](https://deepseek-harness.github.io/deepseek-harness/)
 
